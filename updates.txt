@@ -1,1 +1,2 @@
 Added data cleaning notebook and updated EDA visuals
+Refined model parameters for better accuracy
