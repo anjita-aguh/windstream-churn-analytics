@@ -66,3 +66,4 @@ Predict telecom customer churn and identify at-risk segments using classificatio
 - Work assigned via internal task sheet (simulated).
 - Frequent commits to appear active.
 - Weekly demo (simulated in Discord/Trello).
+# Sprint team contribution
