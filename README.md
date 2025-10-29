@@ -102,4 +102,8 @@ Thanks to everyone who contributed to this project! 🙌
 🧠 **Next Milestone:** Deploy baseline model to staging environment  
 🗓️ **Last Updated:** October 2025
 
+## 🧾 Sprint Dashboard
+
+Track live project progress here 👇  
+➡️ [Windstream ML Sprint Dashboard](https://github.com/users/anjita-aguh/projects/1/views/1?layout_template=board)
 
