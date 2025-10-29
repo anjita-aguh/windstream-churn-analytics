@@ -20,9 +20,9 @@ A collaborative machine learning initiative focused on building a predictive chu
 
 ✅ Dataset acquisition  
 ✅ Initial exploratory data analysis (EDA) assigned to Anjita  
-🟡 Feature engineering pending (Rahul)  
-🟢 Model benchmark selection under review (Meera)  
-🔴 CI/CD pipeline setup for MLOps (Arjun)  
+🟡 Feature engineering pending (Navdeep)  
+🟢 Model benchmark selection under review (Kavita)  
+🔴 CI/CD pipeline setup for MLOps (Dipesh)  
 
 ---
 
@@ -62,10 +62,10 @@ windstream-churn-analytics/
 | Task | Assigned To |
 |------|-------------|
 | Complete EDA | Anjita |
-| Build data pipeline | Rahul |
-| Evaluate logistic regression | Meera |
-| Setup MLOps pipeline | Arjun |
-| Prepare KPI metrics | Priya |
+| Build data pipeline | Navdeep |
+| Evaluate logistic regression | Kavita |
+| Setup MLOps pipeline | Dipesh |
+| Prepare KPI metrics | Satish |
 
 ---
 
