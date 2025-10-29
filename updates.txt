@@ -6,3 +6,4 @@ Evaluated logistic regression and added accuracy benchmarks
 Uploaded KPI analysis report draft
 Added CI/CD pipeline draft configuration
 Feature engineering: added monthly churn ratio features
+Model evaluation: trained logistic regression and baseline metrics
