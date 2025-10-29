@@ -7,3 +7,4 @@ Uploaded KPI analysis report draft
 Added CI/CD pipeline draft configuration
 Feature engineering: added monthly churn ratio features
 Model evaluation: trained logistic regression and baseline metrics
+Business KPIs: customer lifetime value and churn segments summary
