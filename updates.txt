@@ -3,3 +3,4 @@ Refined model parameters for better accuracy
 Created documentation for churn prediction model
 Added data cleaning module and visualization notebook
 Evaluated logistic regression and added accuracy benchmarks
+Uploaded KPI analysis report draft
