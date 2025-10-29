@@ -1,4 +1,4 @@
- Windstream Churn Analytics 🚀
+## Windstream Churn Analytics 🚀
 
 A collaborative machine learning initiative focused on building a predictive churn model for a telecom company. This project simulates a real-world enterprise environment with team-based workflows, modular pipelines, and iterative model experimentation.
 
@@ -37,8 +37,15 @@ Predict telecom customer churn and identify at-risk segments using classificatio
 
 ## 📂 Project Structure
 
+windstream-churn-analytics/
+│
+├── data/ # Raw and processed data
+├── notebooks/ # Jupyter notebooks
+├── src/ # Source code (modeling, preprocessing)
+├── models/ # Saved ML models
+├── reports/ # EDA reports and visualizations
+└── docs/ # Project documentation
 
----
 
 ## 💻 Tools & Stack
 | Category | Tools |
@@ -67,3 +74,8 @@ Predict telecom customer churn and identify at-risk segments using classificatio
 - Frequent commits to appear active.
 - Weekly demo (simulated in Discord/Trello).
 # Sprint team contribution
+=======
+# windstream-churn-analytics
+
+
+
