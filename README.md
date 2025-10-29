@@ -2,6 +2,11 @@
 
 A collaborative machine learning initiative focused on building a predictive churn model for a telecom company. This project simulates a real-world enterprise environment with team-based workflows, modular pipelines, and iterative model experimentation.
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/anjita-aguh/windstream-churn-analytics?color=blue)
+![GitHub last commit](https://img.shields.io/github/last-commit/anjita-aguh/windstream-churn-analytics)
+![GitHub repo size](https://img.shields.io/github/repo-size/anjita-aguh/windstream-churn-analytics)
+
+
 ---
 
 ## 📌 Team Structure
@@ -77,5 +82,24 @@ windstream-churn-analytics/
 =======
 # windstream-churn-analytics
 
+
+---
+
+## 👥 Contributors
+
+Thanks to everyone who contributed to this project! 🙌  
+
+| [<img src="https://avatars.githubusercontent.com/u/9919?v=4" width="80">](#) | [<img src="https://avatars.githubusercontent.com/u/583231?v=4" width="80">](#) | [<img src="https://avatars.githubusercontent.com/u/4921183?v=4" width="80">](#) | [<img src="https://avatars.githubusercontent.com/u/810438?v=4" width="80">](#) | [<img src="https://avatars.githubusercontent.com/u/1342004?v=4" width="80">](#) |
+|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|--------------------------------------------|
+| **Anjita (Lead DS)** | **Navdeep (Data Engineer)** | **Kavita (ML Lead)** | **Dipesh (MLOps)** | **Satish (Analyst)** |
+
+---
+
+## 📅 Project Status
+
+🟢 **Phase:** Active Development  
+🧩 **Current Sprint:** Sprint 2 — Feature Engineering & Model Benchmarking  
+🧠 **Next Milestone:** Deploy baseline model to staging environment  
+🗓️ **Last Updated:** October 2025
 
 
