@@ -11,3 +11,4 @@ Business KPIs: customer lifetime value and churn segments summary
 MLOps: added CI/CD pipeline config draft
 EDA notebook: Added churn trend visualization by tenure
 Feature engineering: encoded categorical variables and added tenure bins
+Trained logistic regression model with baseline accuracy metrics
