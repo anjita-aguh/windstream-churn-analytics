@@ -1,3 +1,4 @@
 Added data cleaning notebook and updated EDA visuals
 Refined model parameters for better accuracy
 Created documentation for churn prediction model
+Added data cleaning module and visualization notebook
