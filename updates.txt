@@ -13,3 +13,4 @@ EDA notebook: Added churn trend visualization by tenure
 Feature engineering: encoded categorical variables and added tenure bins
 Trained logistic regression model with baseline accuracy metrics
 Setup GitHub Actions workflow for automated model training
+Created churn KPI dashboard with retention metrics and customer value scores
