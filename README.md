@@ -9,10 +9,10 @@ A collaborative machine learning initiative focused on building a predictive chu
 | Member         | Role                  | Status     |
 |----------------|-----------------------|-----------|
 | **Anjita (You)** | Data Scientist         | Active ✅ |
-| Rahul Sharma   | Data Engineer          | In Sprint |
-| Meera Kapoor   | ML Research Lead       | Reviewing |
-| Arjun Patel    | MLOps Engineer         | Pending Setup |
-| Priya Nair     | Business Analyst       | Gathering KPIs |
+| Navdeep   | Data Engineer          | In Sprint |
+| Kavita   | ML Research Lead       | Reviewing |
+| Dipesh    | MLOps Engineer         | Pending Setup |
+| Satish    | Business Analyst       | Gathering KPIs |
 
 ---
 
